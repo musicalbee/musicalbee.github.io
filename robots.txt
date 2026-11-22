@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musicalbee.github.io/design-ontology/sitemap.xml
